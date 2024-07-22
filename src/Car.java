@@ -16,7 +16,7 @@ public class Car extends TransportMotor {
 
     @Override
     public void servis() {
-    updateTyre();
-    chekEngin();
+        updateTyre();
+        chekEngin();
     }
 }
